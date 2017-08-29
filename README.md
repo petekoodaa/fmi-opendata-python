@@ -43,4 +43,4 @@ for d in fmidata:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [license.md](license.md) file for details
